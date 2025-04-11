@@ -25,7 +25,7 @@ A simple and clean **To-Do List web application** built with **Python (Django)**
 ## 📦 Installation & Setup
 
 1. **Clone the repository**
-   git clone https://github.com/yourusername/todo-list-django.git
+   git clone https://github.com/Meghana-07-ops/todo-list-django.git
    cd todo-list-django
    
 Create and activate virtual environment
